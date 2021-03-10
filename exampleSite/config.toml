@@ -26,7 +26,7 @@ home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
+copyright = "&copy; 2021 [Satyanchal](https://satyanchal-blog.netlify.app/) All Rights Reserved"
 description = "This is meta description"
 google_tag_manager = ""
 home = "Home"
@@ -34,19 +34,19 @@ logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+title = "Hi, I'm Satyanchal. <br> I help people make their software best"
 [params.cookies]
 enable = true
 expire_days = 2
 [params.cta]
-description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+description = "I'm a 🎓Student, 💻 Developer and 🎨 Artist!"
 enable = true
-image = "images/hugo-muscot.svg"
-title = "Get the best hugo templates"
+image = "https://avatars.githubusercontent.com/u/62104921?s=460&u=6d82589db09324b10017ae3ba4418e613c807c69&v=4"
+title = "Hey! I am Satyanchal"
 [params.cta.button]
 enable = true
-label = "Visit Here"
-link = "https://gethugothemes.com/shop/"
+label = "Contact me"
+link = "https://satyanchal-blog.netlify.app/contact"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
