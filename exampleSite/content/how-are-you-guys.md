@@ -4,7 +4,7 @@ categories = []
 date = 2021-03-09T18:30:00Z
 description = "this is the best"
 draft = true
-image = ""
+image = "/images/tools/figma.png"
 title = "how are you guys"
 type = "post"
 
