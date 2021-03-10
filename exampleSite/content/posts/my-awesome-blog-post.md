@@ -1,7 +1,7 @@
 +++
-title = "My awesome blog post"
-image = "/images/post/post-1.jpg"
-author = "Mark Dinn"
+title = "Create an Avatar Generator"
+image = "https://cdn.hashnode.com/res/hashnode/image/upload/v1610182414339/YUJAFcUN7.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress"
+author = "Satyanchal"
 date = 2019-11-07T05:00:00Z
 description = "This is meta description"
 categories = ["Meta Data"]
