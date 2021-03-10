@@ -24,3 +24,5 @@ fields:
   name: type
   label: type
   default: post
+pages:
+- exampleSite/content/create-an-avatar-generator-using-html-css-and-javascript.md
