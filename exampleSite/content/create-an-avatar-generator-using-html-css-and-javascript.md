@@ -1,9 +1,8 @@
 +++
-author = ""
+author = "Satyanchal"
 categories = []
-date = ""
-description = ""
-draft = true
+date = 2021-03-09T18:30:00Z
+description = " In this project we are going to create an avatar generator which will create an avatar with the name of users. Users can also download the avatar locally on their computer."
 image = ""
 title = "Create an Avatar Generator using HTML, CSS and JavaScript"
 type = "post"
