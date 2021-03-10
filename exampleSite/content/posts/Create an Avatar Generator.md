@@ -2,9 +2,9 @@
 title = "Create an Avatar Generator"
 image = "https://cdn.hashnode.com/res/hashnode/image/upload/v1610182414339/YUJAFcUN7.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress"
 author = "Satyanchal"
-date = 2019-11-07T05:00:00Z
-description = "This is meta description"
-categories = ["Meta Data"]
+date = 2021-03-10T05:00:00Z
+description = "Create an avatar generator which will create an avatar with the name of users"
+categories = ["How to"]
 type = "post"
 
 +++
