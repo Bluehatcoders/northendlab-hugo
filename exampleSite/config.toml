@@ -34,14 +34,14 @@ logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "Hi, I'm Satyanchal. <br> I help people make their software best"
+title = "Hi, I am Satyanchal. <br> I help people make their software best"
 [params.cookies]
 enable = true
 expire_days = 2
 [params.cta]
 description = "I'm a 🎓Student, 💻 Developer and 🎨 Artist!"
 enable = true
-image = "https://avatars.githubusercontent.com/u/62104921?s=460&u=6d82589db09324b10017ae3ba4418e613c807c69&v=4"
+image = "https://avatars.githubusercontent.com/u/62104921?s=152&u=6d82589db09324b10017ae3ba4418e613c807c69&v=4"
 title = "Hey! I am Satyanchal"
 [params.cta.button]
 enable = true
