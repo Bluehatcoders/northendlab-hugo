@@ -20,8 +20,9 @@
 <section class="section">
   <div class="container">
     <div class="row">
-      <div class="col-lg-10 mx-auto px-0">
-        <div class="bg-white shadow block">
+      <div class="col-12">
+        <div class="table-content">
+          <div class="row">
           {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
           {{ range $paginator.Pages }}
           {{ .Render "article" }}
@@ -100,6 +101,7 @@
             </nav>
             {{ end }}
             {{"<!-- /pagination -->" | safeHTML }}
+          </div>
           </div>
         </div>
       </div>
