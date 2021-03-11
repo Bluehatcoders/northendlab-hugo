@@ -3,8 +3,8 @@ author = "Satyanchal"
 categories = []
 date = 2021-03-10T18:30:00Z
 description = ""
-image = ""
-title = "Types of Computer Network.md"
+image = "/images/spqqcxs5j.jpeg"
+title = "Types of Computer Network"
 type = "post"
 
 +++
