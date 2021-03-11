@@ -1,6 +1,6 @@
 +++
 author = "Satyanchal"
-categories = ["How to"]
+categories = ["Education"]
 date = 2021-03-10T18:30:00Z
 description = ""
 image = "/images/spqqcxs5j.jpeg"
