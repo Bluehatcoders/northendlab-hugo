@@ -176,3 +176,9 @@ textarea.form-control{
 .page-link:focus{
   box-shadow: none;
 }
+
+@media (max-width:600px)  { 
+#iskapad {
+    padding: 14px;
+}
+ }
