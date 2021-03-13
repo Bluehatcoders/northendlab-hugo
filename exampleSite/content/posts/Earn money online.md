@@ -3,13 +3,11 @@ title = "Ways to earn extra online"
 image = "https://www.ymyl.com.au/wp-content/uploads/2015/08/Make-money-fast.jpg"
 author = "Satyanchal"
 date = 2021-03-13T05:00:00Z
-description = ""
+description = "How to"
 categories = ["How to"]
 type = "post"
 
 +++
-
-# 💰Ways to earn extra
 
 ## Ad
 
