@@ -1,6 +1,5 @@
 +++
 author = "Satyanchal"
-date = 2021-04-24T18:30:00Z
 description = ""
 image = "https://miro.medium.com/max/1200/1*a-hFv8MSAcMf4lWDJfP_2Q.png"
 title = "VueJS Best Practices Guide"
